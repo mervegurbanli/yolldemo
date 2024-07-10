@@ -16,15 +16,33 @@ public class RegisterPage {
       //  PageFactory.initElements(Driver.getInstance().getDriver(), this);
         LOGGER.info("OhrmHomePage is initialized.");
     }
-    @FindBy(xpath = "")
-    public WebElement welcomeMessage;
 
-    @FindBy(xpath = "//div[@class='menu']//b")
-    public List<WebElement> tabs;
+    @FindBy(id  = "input-firstname")
+    public WebElement firstNameField;
+    @FindBy(id = "input-lastname")
+    public WebElement lastNameField;
 
-    @FindBy(id  = "menu_pim_viewPimModule")
-    public WebElement pimTab;
+    @FindBy(id = "input-email")
+    public WebElement emailField;
 
-    @FindBy(id = "menu_admin_UserManagement")
-    public WebElement userManagementSubTab;
+    @FindBy(id = "input-telephone")
+    public WebElement telephoneField;
+
+    @FindBy(id = "input-password")
+    public WebElement passwordField;
+
+    @FindBy(id = "input-confirm")
+    public WebElement confirmPasswordField;
+
+    @FindBy(css = "[name = 'agree']")
+    public WebElement concentCheckbox;
+
+    @FindBy(css = "[value = 'Continue']")
+    public WebElement continueButton;
+
+
+
+
+
+
 }
