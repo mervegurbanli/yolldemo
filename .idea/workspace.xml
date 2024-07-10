@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04e29f76-7001-4bdb-98bc-26c5a5bde9b2" name="Changes" comment="First commit">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Eric/AmazonData.java" afterDir="false" />
+    <list default="true" id="04e29f76-7001-4bdb-98bc-26c5a5bde9b2" name="Changes" comment="Added Test for amazon footer elements">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Eric/Test55.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Eric/AmazonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/musa/M3_TestNG_AP1_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/musa/M3_TestNG_AP1_test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +43,16 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "TestNG.AmazonTest.amazonTest.executor": "Run",
+    "TestNG.AssertionsPractice1.Practice1.executor": "Run",
+    "TestNG.AssertionsPractice2.Practice2.executor": "Run",
+    "TestNG.M3_TestNG_AP1_test.executor": "Run",
     "TestNG.M3_TestNG_AP1_test.test.executor": "Run",
     "TestNG.M3_TestNG_AP2_test.test.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="TestNG.M3_TestNG_AP1_test.test">
+  <component name="RunManager" selected="TestNG.AmazonTest.amazonTest">
     <configuration name="AmazonTest.amazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="yolldemopractice" />
       <extension name="coverage">
@@ -105,6 +107,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="M3_TestNG_AP1_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yolldemopractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="musa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="musa" />
+      <option name="MAIN_CLASS_NAME" value="musa.M3_TestNG_AP1_test" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="M3_TestNG_AP1_test.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="yolldemopractice" />
       <extension name="coverage">
@@ -123,31 +142,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M3_TestNG_AP2_test.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="yolldemopractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="musa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="musa" />
-      <option name="MAIN_CLASS_NAME" value="musa.M3_TestNG_AP2_test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AmazonTest.amazonTest" />
         <item itemvalue="TestNG.M3_TestNG_AP1_test.test" />
+        <item itemvalue="TestNG.M3_TestNG_AP1_test" />
         <item itemvalue="TestNG.AssertionsPractice2.Practice2" />
         <item itemvalue="TestNG.AssertionsPractice1.Practice1" />
-        <item itemvalue="TestNG.AmazonTest.amazonTest" />
-        <item itemvalue="TestNG.M3_TestNG_AP2_test.test" />
       </list>
     </recent_temporary>
   </component>
@@ -199,7 +200,31 @@
       <option name="project" value="LOCAL" />
       <updated>1720230631116</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Test for amazon footer elements">
+      <option name="closed" value="true" />
+      <created>1720558563288</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1720558563288</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Test for amazon footer elements">
+      <option name="closed" value="true" />
+      <created>1720558601173</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1720558601173</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Test for amazon footer elements">
+      <option name="closed" value="true" />
+      <created>1720558616658</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1720558616659</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +241,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Added Test for amazon footer elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Test for amazon footer elements" />
   </component>
 </project>
