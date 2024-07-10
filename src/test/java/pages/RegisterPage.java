@@ -13,7 +13,7 @@ import java.util.List;
 public class RegisterPage {
     private static final Logger LOGGER = LogManager.getLogger(RegisterPage.class);
     public RegisterPage(){
-        PageFactory.initElements(Driver.getInstance().getDriver(), this);
+      //  PageFactory.initElements(Driver.getInstance().getDriver(), this);
         LOGGER.info("OhrmHomePage is initialized.");
     }
     @FindBy(xpath = "")
