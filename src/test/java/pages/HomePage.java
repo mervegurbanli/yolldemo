@@ -20,8 +20,6 @@ public class HomePage {
     @FindBy(partialLinkText = "register")
     public WebElement registerOption;
 
-    @FindBy(id  = "input-firstname")
-    public WebElement firstName;
 
     @FindBy(id = "menu_admin_UserManagement")
     public WebElement userManagementSubTab;
