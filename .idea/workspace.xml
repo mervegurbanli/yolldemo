@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="04e29f76-7001-4bdb-98bc-26c5a5bde9b2" name="Changes" comment="feature file added">
+    <list default="true" id="04e29f76-7001-4bdb-98bc-26c5a5bde9b2" name="Changes" comment="test">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Gunay/TestNGAssertion2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/musa/M3_TestNG_AP1_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/musa/M3_TestNG_AP1_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/musa/M3_TestNG_AP2_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/musa/M3_TestNG_AP2_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Gunay/Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Gunay/TestNGAssertion1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,132 +32,63 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2iqp0WMAv7sjBuqbksCdEBw9ZgV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "JUnit.M3_TestNG_AP2_test.test.executor": "Run",
+    "Application.TestNGAssertion1.executor": "Run",
+    "Application.TestNGAssertion2.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "TestNG.AssertionsPractice2.Practice2.executor": "Run",
-    "TestNG.M3_TestNG_AP1_test.executor": "Run",
-    "TestNG.M3_TestNG_AP2_test.test.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Merve" />
-    </key>
-  </component>
-  <component name="RunManager" selected="TestNG.M3_TestNG_AP2_test.test">
-    <configuration name="M3_TestNG_AP2_test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.TestNGAssertion2">
+    <configuration name="TestNGAssertion1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gunay.TestNGAssertion1" />
       <module name="yolldemopractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="musa.*" />
+          <option name="PATTERN" value="Gunay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="musa" />
-      <option name="MAIN_CLASS_NAME" value="musa.M3_TestNG_AP2_test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssertionsPractice1.Practice1" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="TestNGAssertion2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Gunay.TestNGAssertion2" />
       <module name="yolldemopractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Merve.*" />
+          <option name="PATTERN" value="Gunay.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Merve" />
-      <option name="MAIN_CLASS_NAME" value="Merve.AssertionsPractice1" />
-      <option name="METHOD_NAME" value="Practice1" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AssertionsPractice2.Practice2" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="yolldemopractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Merve.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Merve" />
-      <option name="MAIN_CLASS_NAME" value="Merve.AssertionsPractice2" />
-      <option name="METHOD_NAME" value="Practice2" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M3_TestNG_AP1_test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="yolldemopractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="musa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="musa" />
-      <option name="MAIN_CLASS_NAME" value="musa.M3_TestNG_AP1_test" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="M3_TestNG_AP2_test.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="yolldemopractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="musa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="musa" />
-      <option name="MAIN_CLASS_NAME" value="musa.M3_TestNG_AP2_test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.M3_TestNG_AP2_test.test" />
-        <item itemvalue="TestNG.M3_TestNG_AP1_test" />
-        <item itemvalue="JUnit.M3_TestNG_AP2_test.test" />
-        <item itemvalue="TestNG.AssertionsPractice1.Practice1" />
-        <item itemvalue="TestNG.AssertionsPractice2.Practice2" />
+        <item itemvalue="Application.TestNGAssertion2" />
+        <item itemvalue="Application.TestNGAssertion1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-322ed176" />
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+        <option value="jdk-22-openjdk-22-3183f394aec4-bad0321e" />
       </set>
     </attachedChunks>
   </component>
@@ -177,29 +109,27 @@
       <option name="project" value="LOCAL" />
       <updated>1720227795167</updated>
     </task>
-    <task id="LOCAL-00002" summary="TestNG AP1 and AP2 added">
+    <task id="LOCAL-00002" summary="test">
       <option name="closed" value="true" />
-      <created>1720546519237</created>
+      <created>1720232570187</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1720546519237</updated>
+      <updated>1720232570187</updated>
     </task>
-    <task id="LOCAL-00003" summary="feature file added">
+    <task id="LOCAL-00003" summary="test">
       <option name="closed" value="true" />
-      <created>1720548027859</created>
+      <created>1720232983241</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1720548027859</updated>
+      <updated>1720232983241</updated>
     </task>
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <MESSAGE value="TestNG AP1 and AP2 added" />
-    <MESSAGE value="feature file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="feature file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
