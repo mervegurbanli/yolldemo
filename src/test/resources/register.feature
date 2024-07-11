@@ -1,5 +1,5 @@
 Feature: Register a new account
-
+  @RegisterPage
   Scenario: User registers a new account
     Given the user is on the homepage
     When the user clicks on the "My Account" drop menu

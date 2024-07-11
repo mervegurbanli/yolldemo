@@ -7,9 +7,9 @@
     <list default="true" id="04e29f76-7001-4bdb-98bc-26c5a5bde9b2" name="Changes" comment="First commit">
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Anna/FirstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Anna/FirstClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/RegisterPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/RegisterPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/register.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/register.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,18 +53,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;TestNG.AmazonTest.amazonTest.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.M3_TestNG_AP1_test.test.executor&quot;: &quot;Run&quot;,
-    &quot;TestNG.M3_TestNG_AP2_test.test.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TestRunner.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "TestNG.AmazonTest.amazonTest.executor": "Run",
+    "TestNG.M3_TestNG_AP1_test.test.executor": "Run",
+    "TestNG.M3_TestNG_AP2_test.test.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true"
   }
-}</component>
-  <component name="RunManager" selected="TestNG.M3_TestNG_AP1_test.test">
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yolldemopractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="runner" />
+      <option name="MAIN_CLASS_NAME" value="runner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AmazonTest.amazonTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="yolldemopractice" />
       <extension name="coverage">
@@ -137,31 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="M3_TestNG_AP2_test.test" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="yolldemopractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="musa.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="musa" />
-      <option name="MAIN_CLASS_NAME" value="musa.M3_TestNG_AP2_test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="TestNG.M3_TestNG_AP1_test.test" />
         <item itemvalue="TestNG.AssertionsPractice2.Practice2" />
         <item itemvalue="TestNG.AssertionsPractice1.Practice1" />
         <item itemvalue="TestNG.AmazonTest.amazonTest" />
-        <item itemvalue="TestNG.M3_TestNG_AP2_test.test" />
       </list>
     </recent_temporary>
   </component>
