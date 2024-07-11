@@ -1,5 +1,9 @@
 package step_definitions;
 
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
 public class RegisterPageSteps {
     @Given("the user is on the homepage")
     public void the_user_is_on_the_homepage() {
