@@ -11,7 +11,6 @@ Feature: Register a new account
       | Telephone        | 1234567890 |
       | Password         | password123 |
       | Password Confirm | password123 |
-      | Privacy Policy   | checked    |
     And the user clicks on the "Continue" button
     Then the user should see the "Account Success" page
     When the user clicks on the "Continue" button on the "Account Success" page

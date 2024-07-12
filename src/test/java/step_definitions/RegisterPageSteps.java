@@ -3,17 +3,28 @@ package step_definitions;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
+import pages.RegisterPage;
+import utilities.WaitHelper;
+
+import java.util.List;
+import java.util.Map;
 
 public class RegisterPageSteps {
 
 
-    @When("the user clicks on the {string} option")
-    public void the_user_clicks_on_the_option(String string) {
-
-    }
+    RegisterPage registerPage = new RegisterPage();
 
     @When("the user enters the following details into the mandatory fields:")
-    public void the_user_enters_the_following_details_into_the_mandatory_fields(io.cucumber.datatable.DataTable dataTable) {
+    public void the_user_enters_the_following_details_into_the_mandatory_fields(Map<String, String> dataTable) {
+
+        registerPage.firstNameField.sendKeys(dataTable.get("First Name"));
+        registerPage.lastNameField.sendKeys(dataTable.get("Last Name"));
+        registerPage.emailField.sendKeys(dataTable.get("E-Mail"));
+        registerPage.telephoneField.sendKeys(dataTable.get("Telephone"));
+        registerPage.passwordField.sendKeys(dataTable.get("Password"));
+        registerPage.confirmPasswordField.sendKeys(dataTable.get("Password Confirm"));
+        registerPage.concentCheckbox.click();
+        WaitHelper.wait(5);
 
     }
 

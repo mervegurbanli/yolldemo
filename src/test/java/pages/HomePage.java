@@ -14,10 +14,10 @@ public class HomePage {
         //PageFactory.initElements(Driver.getInstance().getDriver(), this);
         LOGGER.info("OhrmHomePage is initialized.");
     }
-    @FindBy(xpath = "//a[text()=\"My Account\"]")
+    @FindBy(xpath = "//a[@title = 'My Account']")
     public WebElement myAccountDropMenu;
 
-    @FindBy(partialLinkText = "register")
+    @FindBy(xpath = "//a[text() = 'Register']")
     public WebElement registerOption;
 
 
