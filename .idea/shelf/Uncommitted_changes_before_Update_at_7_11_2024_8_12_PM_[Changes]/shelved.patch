@@ -1,0 +1,113 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"04e29f76-7001-4bdb-98bc-26c5a5bde9b2\" name=\"Changes\" comment=\"First commit\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n        <option value=\"Interface\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;katimi81&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">{\r\n  &quot;selectedUrlAndAccountId&quot;: {\r\n    &quot;url&quot;: &quot;https://github.com/mervegurbanli/yolldemo.git&quot;,\r\n    &quot;accountId&quot;: &quot;7428dc7c-80c5-49af-9c9d-874d5bbc895c&quot;\r\n  }\r\n}</component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 7\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2iqp0WMAv7sjBuqbksCdEBw9ZgV\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;TestNG.AmazonTest.amazonTest.executor&quot;: &quot;Run&quot;,\r\n    &quot;TestNG.M3_TestNG_AP1_test.test.executor&quot;: &quot;Run&quot;,\r\n    &quot;TestNG.M3_TestNG_AP2_test.test.executor&quot;: &quot;Run&quot;,\r\n    &quot;git-widget-placeholder&quot;: &quot;main&quot;,\r\n    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RunManager\" selected=\"JUnit.TestRunner\">\r\n    <configuration name=\"TestRunner\" type=\"JUnit\" factoryName=\"JUnit\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"yolldemopractice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"runner.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"runner\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"runner.TestRunner\" />\r\n      <option name=\"TEST_OBJECT\" value=\"class\" />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"AmazonTest.amazonTest\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"yolldemopractice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Eric.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"Eric\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Eric.AmazonTest\" />\r\n      <option name=\"METHOD_NAME\" value=\"amazonTest\" />\r\n      <option name=\"TEST_OBJECT\" value=\"METHOD\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"AssertionsPractice1.Practice1\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"yolldemopractice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Merve.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"Merve\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Merve.AssertionsPractice1\" />\r\n      <option name=\"METHOD_NAME\" value=\"Practice1\" />\r\n      <option name=\"TEST_OBJECT\" value=\"METHOD\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"AssertionsPractice2.Practice2\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"yolldemopractice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"Merve.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"Merve\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"Merve.AssertionsPractice2\" />\r\n      <option name=\"METHOD_NAME\" value=\"Practice2\" />\r\n      <option name=\"TEST_OBJECT\" value=\"METHOD\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <configuration name=\"M3_TestNG_AP1_test.test\" type=\"TestNG\" temporary=\"true\" nameIsGenerated=\"true\">\r\n      <module name=\"yolldemopractice\" />\r\n      <extension name=\"coverage\">\r\n        <pattern>\r\n          <option name=\"PATTERN\" value=\"musa.*\" />\r\n          <option name=\"ENABLED\" value=\"true\" />\r\n        </pattern>\r\n      </extension>\r\n      <option name=\"PACKAGE_NAME\" value=\"musa\" />\r\n      <option name=\"MAIN_CLASS_NAME\" value=\"musa.M3_TestNG_AP1_test\" />\r\n      <option name=\"METHOD_NAME\" value=\"test\" />\r\n      <option name=\"TEST_OBJECT\" value=\"METHOD\" />\r\n      <properties />\r\n      <listeners />\r\n      <method v=\"2\">\r\n        <option name=\"Make\" enabled=\"true\" />\r\n      </method>\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JUnit.TestRunner\" />\r\n        <item itemvalue=\"TestNG.M3_TestNG_AP1_test.test\" />\r\n        <item itemvalue=\"TestNG.AssertionsPractice2.Practice2\" />\r\n        <item itemvalue=\"TestNG.AssertionsPractice1.Practice1\" />\r\n        <item itemvalue=\"TestNG.AmazonTest.amazonTest\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"04e29f76-7001-4bdb-98bc-26c5a5bde9b2\" name=\"Changes\" comment=\"\" />\r\n      <created>1720227739994</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1720227739994</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"test\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720227795167</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720227795167</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"test\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720232570187</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720232570187</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"test\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720232983241</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720232983241</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"First commit\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1720230631116</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1720230631116</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"5\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"test\" />\r\n    <MESSAGE value=\"First commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"First commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 3b1dea393b279671d070ab05d5ce1afc0bd00c01)
++++ b/.idea/workspace.xml	(date 1720743170825)
+@@ -4,7 +4,10 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="04e29f76-7001-4bdb-98bc-26c5a5bde9b2" name="Changes" comment="First commit" />
++    <list default="true" id="04e29f76-7001-4bdb-98bc-26c5a5bde9b2" name="Changes" comment="First commit">
++      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/src/test/java/Eric/AmazonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Eric/AmazonTest.java" afterDir="false" />
++    </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -47,18 +50,21 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent">{
+-  &quot;keyToString&quot;: {
+-    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+-    &quot;TestNG.AmazonTest.amazonTest.executor&quot;: &quot;Run&quot;,
+-    &quot;TestNG.M3_TestNG_AP1_test.test.executor&quot;: &quot;Run&quot;,
+-    &quot;TestNG.M3_TestNG_AP2_test.test.executor&quot;: &quot;Run&quot;,
+-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
++  <component name="PropertiesComponent"><![CDATA[{
++  "keyToString": {
++    "JUnit.TestRunner.executor": "Run",
++    "RunOnceActivity.OpenProjectViewOnStart": "true",
++    "RunOnceActivity.ShowReadmeOnStart": "true",
++    "TestNG.AmazonTest.amazonTest.executor": "Run",
++    "TestNG.M3_TestNG_AP1_test.test.executor": "Run",
++    "TestNG.M3_TestNG_AP2_test.test.executor": "Run",
++    "git-widget-placeholder": "main",
++    "kotlin-language-version-configured": "true",
++    "project.structure.last.edited": "Project",
++    "project.structure.proportion": "0.15",
++    "project.structure.side.proportion": "0.0"
+   }
+-}</component>
++}]]></component>
+   <component name="RunManager" selected="JUnit.TestRunner">
+     <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+       <module name="yolldemopractice" />
+Index: pom.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project xmlns=\"http://maven.apache.org/POM/4.0.0\"\r\n         xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\"\r\n         xsi:schemaLocation=\"http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd\">\r\n    <modelVersion>4.0.0</modelVersion>\r\n\r\n    <groupId>io.yoll</groupId>\r\n    <artifactId>yolldemopractice</artifactId>\r\n    <version>1.0-SNAPSHOT</version>\r\n\r\n    <properties>\r\n        <maven.compiler.source>21</maven.compiler.source>\r\n        <maven.compiler.target>21</maven.compiler.target>\r\n        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>\r\n    </properties>\r\n\r\n    <dependencies>\r\n        <dependency>\r\n            <groupId>org.junit.jupiter</groupId>\r\n            <artifactId>junit-jupiter-api</artifactId>\r\n            <version>5.7.0</version>\r\n            <scope>test</scope>\r\n        </dependency>\r\n        <!-- rest assured is used for api automation -->\r\n        <dependency>\r\n            <groupId>io.rest-assured</groupId>\r\n            <artifactId>rest-assured</artifactId>\r\n            <version>4.5.1</version>\r\n            <scope>test</scope>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>commons-io</groupId>\r\n            <artifactId>commons-io</artifactId>\r\n            <version>2.4</version>\r\n        </dependency>\r\n        <!-- jackson-databind is used to convert Java Object to String/JSON -->\r\n        <dependency>\r\n            <groupId>com.fasterxml.jackson.core</groupId>\r\n            <artifactId>jackson-databind</artifactId>\r\n            <version>2.10.1</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>com.github.javafaker</groupId>\r\n            <artifactId>javafaker</artifactId>\r\n            <version>0.16</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>org.seleniumhq.selenium</groupId>\r\n            <artifactId>selenium-java</artifactId>\r\n            <version>3.141.59</version>\r\n        </dependency>\r\n        <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->\r\n        <dependency>\r\n            <groupId>io.github.bonigarcia</groupId>\r\n            <artifactId>webdrivermanager</artifactId>\r\n            <version>5.6.3</version>\r\n        </dependency>\r\n        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-java -->\r\n        <dependency>\r\n            <groupId>io.cucumber</groupId>\r\n            <artifactId>cucumber-java</artifactId>\r\n            <version>4.8.1</version>\r\n        </dependency>\r\n        <!-- https://mvnrepository.com/artifact/io.cucumber/cucumber-junit -->\r\n        <dependency>\r\n            <groupId>io.cucumber</groupId>\r\n            <artifactId>cucumber-junit</artifactId>\r\n            <version>4.8.1</version>\r\n        </dependency>\r\n        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml -->\r\n        <dependency>\r\n            <groupId>org.apache.poi</groupId>\r\n            <artifactId>poi-ooxml</artifactId>\r\n            <version>4.1.0</version>\r\n        </dependency>\r\n        <!-- https://mvnrepository.com/artifact/org.apache.poi/poi -->\r\n        <dependency>\r\n            <groupId>org.apache.poi</groupId>\r\n            <artifactId>poi</artifactId>\r\n            <version>4.1.0</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>log4j</groupId>\r\n            <artifactId>log4j</artifactId>\r\n            <version>1.2.17</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>mysql</groupId>\r\n            <artifactId>mysql-connector-java</artifactId>\r\n            <version>8.0.18</version>\r\n        </dependency>\r\n        <!-- https://mvnrepository.com/artifact/com.jayway.jsonpath/json-path -->\r\n        <dependency>\r\n            <groupId>com.jayway.jsonpath</groupId>\r\n            <artifactId>json-path</artifactId>\r\n            <version>2.3.0</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>org.slf4j</groupId>\r\n            <artifactId>slf4j-api</artifactId>\r\n            <version>1.7.5</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>com.microsoft.sqlserver</groupId>\r\n            <artifactId>mssql-jdbc</artifactId>\r\n            <version>8.2.2.jre8</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>org.slf4j</groupId>\r\n            <artifactId>slf4j-log4j12</artifactId>\r\n            <version>1.7.5</version>\r\n        </dependency>\r\n        <dependency>\r\n            <groupId>org.testng</groupId>\r\n            <artifactId>testng</artifactId>\r\n            <version>7.9.0</version>\r\n            <scope>test</scope>\r\n        </dependency>\r\n    </dependencies>\r\n\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/pom.xml b/pom.xml
+--- a/pom.xml	(revision 3b1dea393b279671d070ab05d5ce1afc0bd00c01)
++++ b/pom.xml	(date 1720742302853)
+@@ -47,7 +47,7 @@
+         <dependency>
+             <groupId>org.seleniumhq.selenium</groupId>
+             <artifactId>selenium-java</artifactId>
+-            <version>3.141.59</version>
++            <version>4.20.0</version>
+         </dependency>
+         <!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+         <dependency>
+Index: src/test/java/Eric/AmazonTest.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>package Eric;\r\n\r\nimport org.openqa.selenium.By;\r\nimport org.openqa.selenium.WebDriver;\r\nimport org.openqa.selenium.WebElement;\r\nimport org.openqa.selenium.chrome.ChromeDriver;\r\nimport org.openqa.selenium.support.ui.ExpectedConditions;\r\nimport org.openqa.selenium.support.ui.Wait;\r\nimport org.openqa.selenium.support.ui.WebDriverWait;\r\nimport org.testng.Assert;\r\nimport org.testng.annotations.Test;\r\n\r\nimport java.time.Duration;\r\nimport java.util.List;\r\n\r\npublic class AmazonTest {\r\n    @Test\r\n    public void amazonTest()\r\n    {\r\n        WebDriver driver = new ChromeDriver();\r\n        driver.get(\"https://www.amazon.com\");\r\n        driver.manage().window().maximize();\r\n        Wait<WebDriver> wait1 = new WebDriverWait(driver, 10);\r\n        wait1.until(ExpectedConditions.presenceOfElementLocated(By.xpath(\"//div[@class = 'navFooterLinkCol navAccessibility']//ul//li\")));\r\n        List<WebElement> footerElements = driver.findElements(By.xpath(\"//div[@class = 'navFooterLinkCol navAccessibility']//ul//li\"));\r\n        int elementCounter = 0;\r\n        for(WebElement eachElement: footerElements)\r\n        {\r\n            System.out.println(eachElement.getText());\r\n            Assert.assertEquals(eachElement.getText(), AmazonData.amazonData[elementCounter], \"The element text verification has failed!\");\r\n            elementCounter++;\r\n        }\r\n\r\n        driver.quit();\r\n    }\r\n}\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/test/java/Eric/AmazonTest.java b/src/test/java/Eric/AmazonTest.java
+--- a/src/test/java/Eric/AmazonTest.java	(revision 3b1dea393b279671d070ab05d5ce1afc0bd00c01)
++++ b/src/test/java/Eric/AmazonTest.java	(date 1720742324856)
+@@ -20,7 +20,7 @@
+         WebDriver driver = new ChromeDriver();
+         driver.get("https://www.amazon.com");
+         driver.manage().window().maximize();
+-        Wait<WebDriver> wait1 = new WebDriverWait(driver, 10);
++        Wait<WebDriver> wait1 = new WebDriverWait(driver, Duration.ofSeconds(10));
+         wait1.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[@class = 'navFooterLinkCol navAccessibility']//ul//li")));
+         List<WebElement> footerElements = driver.findElements(By.xpath("//div[@class = 'navFooterLinkCol navAccessibility']//ul//li"));
+         int elementCounter = 0;
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ExternalStorageConfigurationManager\" enabled=\"true\" />\r\n  <component name=\"MavenProjectsManager\">\r\n    <option name=\"originalFiles\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/pom.xml\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_X\" project-jdk-name=\"openjdk-22 (2)\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 3b1dea393b279671d070ab05d5ce1afc0bd00c01)
++++ b/.idea/misc.xml	(date 1720743170838)
+@@ -8,7 +8,7 @@
+       </list>
+     </option>
+   </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_X" project-jdk-name="openjdk-22 (2)" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="21" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+ </project>
+\ No newline at end of file
