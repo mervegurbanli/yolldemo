@@ -7,13 +7,14 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import utilities.Driver;
 
 import java.util.List;
 
 public class RegisterPage {
     private static final Logger LOGGER = LogManager.getLogger(RegisterPage.class);
     public RegisterPage(){
-      //  PageFactory.initElements(Driver.getInstance().getDriver(), this);
+        PageFactory.initElements(Driver.getDriver(), this);
         LOGGER.info("OhrmHomePage is initialized.");
     }
 
