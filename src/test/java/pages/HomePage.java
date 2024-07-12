@@ -1,5 +1,6 @@
 package pages;
 
+import com.github.dockerjava.core.DockerClientBuilder;
 import org.apache.log4j.LogManager;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebElement;

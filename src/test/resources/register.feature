@@ -7,7 +7,7 @@ Feature: Register a new account
     And the user enters the following details into the mandatory fields:
       | First Name       | John       |
       | Last Name        | Doe        |
-      | E-Mail           | john.doe@example.com |
+      | E-Mail           | john.doe1345m@example.com |
       | Telephone        | 1234567890 |
       | Password         | password123 |
       | Password Confirm | password123 |
