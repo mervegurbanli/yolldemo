@@ -5,15 +5,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 public class RegisterPageSteps {
-    @Given("the user is on the homepage")
-    public void the_user_is_on_the_homepage() {
 
-    }
-
-    @When("the user clicks on the {string} drop menu")
-    public void the_user_clicks_on_the_drop_menu(String string) {
-
-    }
 
     @When("the user clicks on the {string} option")
     public void the_user_clicks_on_the_option(String string) {

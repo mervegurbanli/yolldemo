@@ -20,7 +20,7 @@ public class AmazonTest {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.amazon.com");
         driver.manage().window().maximize();
-        Wait<WebDriver> wait1 = new WebDriverWait(driver, 10);
+        Wait<WebDriver> wait1 = new WebDriverWait(driver, Duration.ofSeconds(10));
         wait1.until(ExpectedConditions.presenceOfElementLocated(By.xpath("//div[@class = 'navFooterLinkCol navAccessibility']//ul//li")));
         List<WebElement> footerElements = driver.findElements(By.xpath("//div[@class = 'navFooterLinkCol navAccessibility']//ul//li"));
         int elementCounter = 0;

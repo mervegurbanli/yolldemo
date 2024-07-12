@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         features="src/test/resources",
         glue="step_definitions",
         tags={"@RegisterPage"}, // in selenium 4 -> @regression and not @wip
-        dryRun = true,
+        dryRun = false,
         monochrome = true
 )
 
